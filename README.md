@@ -27,36 +27,6 @@ Major: <b>Division of ICT, Computer Science<b>
 
 <br><br>
 
-<!-- ============ PROFILE ============ -->
-<div align="center">
-
-### Profile
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="130"><b>Name</b></td>
-<td align="left" width="360">Bae SeoYoon</td>
-</tr>
-<tr>
-<td align="center"><b>Education</b></td>
-<td align="left">Hanyang University, ERICA</td>
-</tr>
-<tr>
-<td align="center"><b>Major</b></td>
-<td align="left">Division of ICT, Computer Science</td>
-</tr>
-<tr>
-<td align="center"><b>Status</b></td>
-<td align="left">Undergraduate Student</td>
-</tr>
-</table>
-
-</div>
-
-<br><br>
-
 <!-- ============ TECH STACKS ============ -->
 <div align="center">
 
