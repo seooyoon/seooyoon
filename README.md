@@ -7,7 +7,7 @@
 <!-- ============ INTRO ============ -->
 <div align="center">
 
-### Welcome to Seoyoon's GitHub
+### Welcome to Seoyoon's GitHub 🤍
 
 <br>
 
@@ -15,13 +15,7 @@
 Hanyang University, ERICA  
 Division of ICT, Computer Science  
 
-<br><br>
-
-사용자 경험을 고민하며 성장하는 개발자입니다.  
-디자인의 의도와 개발의 구조를 함께 이해하고,  
-더 편리하고 완성도 높은 서비스를 만드는 것을 목표로 합니다.
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Responsibility-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/Communication-f5f5f5?style=flat-square">
@@ -68,34 +62,16 @@ Division of ICT, Computer Science
 
 ### Tech Stacks
 
-<br>
-
-<b>Language</b>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Java-555555?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=282d33">
-
-<br><br>
-
-<b>Framework & Platform</b>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=282d33">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=282d33">
-
-<br><br>
-
-<b>Tools</b>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
