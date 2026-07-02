@@ -89,9 +89,3 @@ Major: <b>Division of ICT, Computer Science<b>
 <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seooyoon&layout=compact&hide_title=true&bg_color=ffffff&text_color=333333&border_color=eaeaea&border_radius=10" />
 
 </div>
-
-<br><br>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=fee8a4&height=100&section=footer" />
-</div>
