@@ -10,9 +10,9 @@
 ### Welcome to Seoyoon's GitHub 🤍
 
 <small>
-Name: <b>BAE SEOYOON</b><br>
-Edu: <b>Hanyang University, ERICA</b><br>
-Major: <b>Division of ICT, Computer Science</b><br>
+Name: BAE SEOYOON<br>
+Edu: Hanyang University, ERICA<br>
+Major: Division of ICT, Computer Science<br>
 </small>
 
 <br>
