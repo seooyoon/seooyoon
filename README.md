@@ -15,6 +15,7 @@ Edu: <b>Hanyang University, ERICA</b><br>
 Major: <b>Division of ICT, Computer Science</b><br>
 </small>
 
+<br>
 <img src="https://img.shields.io/badge/Responsibility-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/Communication-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/UI%2FUX-f5f5f5?style=flat-square">
