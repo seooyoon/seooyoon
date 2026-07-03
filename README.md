@@ -9,13 +9,11 @@
 
 ### Welcome to Seoyoon's GitHub 🤍
 
-<br>
-
-Name: <b>BAE SEOYOON</b>  
-Edu: <b>Hanyang University, ERICA<b>
-Major: <b>Division of ICT, Computer Science<b> 
-
-<br>
+<small>
+Name: <b>BAE SEOYOON</b><br>
+Edu: <b>Hanyang University, ERICA</b><br>
+Major: <b>Division of ICT, Computer Science</b>
+</small>
 
 <img src="https://img.shields.io/badge/Responsibility-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/Communication-f5f5f5?style=flat-square">
