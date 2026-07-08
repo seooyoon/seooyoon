@@ -7,7 +7,7 @@
 <!-- ============ INTRO ============ -->
 <div align="center">
 
-### Welcome to Seoyoon's GitHub 🍓
+### Welcome to Seoyoon's GitHub ☺️
 
 <small>
 Name: Seoyoon Bae<br>
