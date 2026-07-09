@@ -75,13 +75,16 @@
 <div align="center">
 
 ### Stats
-
 <br>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&hide_title=true&bg_color=ffffff&text_color=333333&icon_color=f2c94c&border_color=eaeaea&border_radius=10" />
-
-<br><br>
-
-<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seooyoon&layout=compact&hide_title=true&bg_color=ffffff&text_color=333333&border_color=eaeaea&border_radius=10" />
-
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&hide_title=true&rank_icon=github&bg_color=ffffff&text_color=2f2f2f&icon_color=f48fb1&border_color=f8d7e3&border_radius=12"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seooyoon&layout=compact&hide_title=true&bg_color=ffffff&text_color=2f2f2f&border_color=f8d7e3&border_radius=12"
+  />
+</div>
 </div>
