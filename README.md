@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Portfolio-282d33?style=flat-square&logo=Notion&logoColor=white">
 </a>
 <br>
-✉️ Mail : qazplm12093@naver.com
+✉️ Mail : bsyoon1204@gmail.com
 <a href="mailto:bsyoon1204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </a>
