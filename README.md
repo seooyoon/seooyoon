@@ -6,10 +6,8 @@
 
 <!-- ============ INTRO ============ -->
 <div align="center">
-  <p style="font-size:80px; font-weight:700; margin:0;">
-    Welcome to Seoyoon's GitHub 🍓
-  </p>
-</div>
+### Welcome to Seoyoon's GitHub 🍓
+
 <br>
 
 <small>
