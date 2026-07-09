@@ -8,7 +8,7 @@
 <div align="center">
 
 <div align="center">
-  <p style="font-size:40px; font-weight:700; margin:0;">
+  <p style="font-size:80px; font-weight:700; margin:0;">
     Welcome to Seoyoon's GitHub 🍓
   </p>
 </div>
