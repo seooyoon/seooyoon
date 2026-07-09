@@ -11,9 +11,9 @@
 
 <br>
 <small>
-🙋🏻‍♀️ Name: Seoyoon Bae<br>
-🏫 Edu: Hanyang University, ERICA<br>
-🎓 Major: Division of ICT, Computer Science<br>
+🙋🏻‍♀️ Name : Seoyoon Bae<br>
+🏫 Edu : Hanyang University, ERICA<br>
+🎓 Major : Division of ICT, Computer Science<br>
 </small>
 
 <br>
