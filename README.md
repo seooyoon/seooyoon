@@ -10,10 +10,6 @@
 ### Welcome to Seoyoon's GitHub 🍓
 
 <br>
-<a href="https://bae-seo-yoon.notion.site/Portfolio-Bae-SeoYoon-370159ffc766808282a8e13df9ddd576?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-282d33?style=flat-square&logo=Notion&logoColor=white">
-</a>
-<br><br>
 <small>
 🙋🏻‍♀️ Name: Seoyoon Bae<br>
 🏫 Edu: Hanyang University, ERICA<br>
@@ -56,6 +52,16 @@
 
 </div>
 
+<br><br>
+
+<!-- ============ PORTFOLIO ============ -->
+
+### Portfolio
+
+<br>
+<a href="https://bae-seo-yoon.notion.site/Portfolio-Bae-SeoYoon-370159ffc766808282a8e13df9ddd576?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-282d33?style=flat-square&logo=Notion&logoColor=white">
+</a>
 <br><br>
 
 <!-- ============ CONTACT ============ -->
