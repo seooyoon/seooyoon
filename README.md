@@ -8,9 +8,12 @@
 <div align="center">
 
 <div align="center">
-  <h2>Welcome to Seoyoon's GitHub 🍓</h2>
+  <p style="font-size:40px; font-weight:700; margin:0;">
+    Welcome to Seoyoon's GitHub 🍓
+  </p>
 </div>
 <br>
+
 <small>
 🙋🏻‍♀️ Name : Seoyoon Bae<br>
 🏫 Edu : Hanyang University, ERICA<br>
