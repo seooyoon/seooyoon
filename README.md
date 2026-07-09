@@ -6,6 +6,7 @@
 
 <!-- ============ INTRO ============ -->
 <div align="center">
+
 ### Welcome to Seoyoon's GitHub 🍓
 
 <br>
