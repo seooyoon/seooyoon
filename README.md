@@ -143,7 +143,7 @@
 
 <br><br>
 
-<img width="1920" height="1080" alt="랜딩1" src="https://github.com/user-attachments/assets/533d963e-71e2-47d2-94b0-ca99f570c7ad" />
+<img width="1920" height="1080" alt="랜딩1" src="https://github.com/user-attachments/assets/e945197e-0c12-4b96-b24f-70b82b9436d2" />
 
 <details>
   <summary> <b>SAGO</b> <br> <b>Backend · AI </b> – AI 기반 배달 라이더 사고 즉시 대응 및 3D 사고 재현 증빙 플랫폼 </summary>
