@@ -71,7 +71,7 @@
 
 <br>
 
-<img width="1920" height="1080" alt="#0" src="https://github.com/user-attachments/assets/a1807f83-dcfd-491e-ba01-e883b636e134" />
+<img width="1920" height="1080" alt="#0" src="https://github.com/user-attachments/assets/6ae9e7dd-a18c-4931-bbe1-1db519f6d84e" />
    
 <details>
   <summary> <b>MAP</b> <br>  <b>Frontend </b>– 모빌리티(PM) 기반 맞춤 여행 경로 추천 서비스 </summary>
