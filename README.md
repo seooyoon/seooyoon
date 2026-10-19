@@ -71,7 +71,7 @@
 
 <br>
 
-<img width="1920" height="1080" alt="#0" src="https://github.com/user-attachments/assets/6ae9e7dd-a18c-4931-bbe1-1db519f6d84e" />
+<img width="90%" alt="#0" src="https://github.com/user-attachments/assets/6ae9e7dd-a18c-4931-bbe1-1db519f6d84e" />
    
 <details>
   <summary> <b>MAP</b> <br>  <b>Frontend </b>– 모빌리티(PM) 기반 맞춤 여행 경로 추천 서비스 </summary>
@@ -95,7 +95,7 @@
 <br><br>
 
 
-<img width="3640" height="2574" alt="641304447-83b390f0-541b-49a5-ad59-2824c098d29e" src="https://github.com/user-attachments/assets/dc789cf7-1e62-44fe-9f26-799039849763" />
+<img width="90%" alt="641304447-83b390f0-541b-49a5-ad59-2824c098d29e" src="https://github.com/user-attachments/assets/dc789cf7-1e62-44fe-9f26-799039849763" />
 <details>
   <summary> <b>MuseReview</b> <br> <b>Frontend </b>– 나의 연주 습관과 화성학적 의도를 정밀 분석하여, 독학 중에도 레슨 경험을 제공하는 AI 음악 멘토링 플랫폼 </summary>
 
@@ -118,7 +118,7 @@
 <br><br>
 
 
-<img width="1920" height="1080" alt="#1" src="https://github.com/user-attachments/assets/12a6a662-1717-491e-92d9-8b63169faa68" />
+<img width="90%" alt="#1" src="https://github.com/user-attachments/assets/12a6a662-1717-491e-92d9-8b63169faa68" />
 
 <details>
   <summary> <b>Cramit</b> <br> <b>Backend · Infra </b>– 나만의 스마트한 학습 어시스턴트 </summary>
@@ -143,7 +143,7 @@
 
 <br><br>
 
-<img width="1920" height="1080" alt="랜딩1" src="https://github.com/user-attachments/assets/e945197e-0c12-4b96-b24f-70b82b9436d2" />
+<img width="90%" alt="랜딩1" src="https://github.com/user-attachments/assets/e945197e-0c12-4b96-b24f-70b82b9436d2" />
 
 <details>
   <summary> <b>SAGO</b> <br> <b>Backend · AI </b> – AI 기반 배달 라이더 사고 즉시 대응 및 3D 사고 재현 증빙 플랫폼 </summary>
@@ -165,7 +165,9 @@
 <img src="https://img.shields.io/badge/Service-5c2d91?style=flat-square&logo=Vercel&logoColor=white">
 
 </div>
+
 <br>
+
 
 <!-- ============ CONTACT ============ -->
 <div align="center">
@@ -179,13 +181,14 @@
 ✉️ Mail : bsyoon1204@gmail.com
  
 </div>
-
+<br>
 <br>
 
 <!-- ============ 3D CONTRIBUTION ============ -->
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="55%" align="middle" />
-<img src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&bg_color=fce4ec&border_color=f8c8d8&title_color=2f2f2f&text_color=2f2f2f&icon_color=e57fa3&ring_color=e57fa3" alt="GitHub Stats" width="42%" align="middle" />
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="40%" align="middle" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&bg_color=ffffff&border_color=c8c8c8&title_color=2f2f2f&text_color=2f2f2f&icon_color=2f2f2f&ring_color=2f2f2f" alt="GitHub Stats" width="40%" align="middle" />
 
 </div>
