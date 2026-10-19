@@ -185,6 +185,7 @@
 <!-- ============ 3D CONTRIBUTION ============ -->
 <div align="center">
 
-![3D Contribution](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="55%" align="middle" />
+<img src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=5b7cf5&title_color=000000&text_color=000000&icon_color=3f5fd6&ring_color=3f5fd6" alt="GitHub Stats" width="42%" align="middle" />
 
 </div>
