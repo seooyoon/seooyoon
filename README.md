@@ -189,6 +189,6 @@
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution" width="40%" align="middle" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&bg_color=ffffff&border_color=c8c8c8&title_color=2f2f2f&text_color=2f2f2f&icon_color=2f2f2f&ring_color=2f2f2f" alt="GitHub Stats" width="40%" align="middle" />
+<img src="https://github-readme-stats.vercel.app/api?username=seooyoon&show_icons=true&count_private=true&bg_color=ffffff&border_color=c8c8c8&title_color=2f2f2f&text_color=2f2f2f&icon_color=2f2f2f&ring_color=2f2f2f" alt="GitHub Stats" width="40%" align="middle" />
 
 </div>
