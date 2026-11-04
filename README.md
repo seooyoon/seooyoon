@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e7&height=330&text=Hello%20I'm%20Seoyoon!&animation=fadeIn&fontColor=2f2f2f&fontSize=66" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCEFFA,30:E8E2F1,65:FFDDE9,100:FFF6D9&height=260&text=Hello%20I'm%20Seoyoon!&animation=fadeIn&fontColor=344054&fontSize=66" />
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 <!-- ============ INTRO ============ -->
 <div align="center">
 
-### Welcome to Seoyoon's GitHub 🍓
+### Welcome to Seoyoon's GitHub
 
 <br>
 
@@ -20,9 +20,9 @@
 <br>
 <img src="https://img.shields.io/badge/Responsibility-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/Communication-f5f5f5?style=flat-square">
-<img src="https://img.shields.io/badge/UI%2FUX-f5f5f5?style=flat-square">
-<img src="https://img.shields.io/badge/Frontend-f5f5f5?style=flat-square">
 <img src="https://img.shields.io/badge/Backend-f5f5f5?style=flat-square">
+<img src="https://img.shields.io/badge/Cloud·Infra-f5f5f5?style=flat-square">
+<img src="https://img.shields.io/badge/AI/LLM-f5f5f5?style=flat-square">
 
 </div>
 
@@ -209,7 +209,7 @@
 
 
 <!-- ============ SUB PROJECTS ============ -->
-<br>
+<br><br>
 <div align="center">
     
 ### Sub Projects
