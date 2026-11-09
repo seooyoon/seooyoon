@@ -117,7 +117,7 @@
 <br>
 
 <!-- Project 1: MAP -->
-<img width="90%" alt="#0" src="https://github.com/user-attachments/assets/6ae9e7dd-a18c-4931-bbe1-1db519f6d84e" />
+<img width="90%" alt="Group 1739333812" src="https://github.com/user-attachments/assets/16607629-9863-485a-97f6-f81edfafd58e" />
 <br><br>
 <details>
 <summary style="cursor: pointer;"><b>MAP</b><br><b>Frontend </b>– 모빌리티(PM) 기반 맞춤 여행 경로 추천 서비스</summary>
@@ -138,7 +138,7 @@
 <br><br><br>
 
 <!-- Project 2: MuseReview -->
-<img width="90%" alt="641304447-83b390f0-541b-49a5-ad59-2824c098d29e" src="https://github.com/user-attachments/assets/dc789cf7-1e62-44fe-9f26-799039849763" />
+<img width="90%" alt="Group 1739333814" src="https://github.com/user-attachments/assets/672a60c7-2d14-457e-be42-d102bf89a79d" />
 <br><br>
 <details>
 <summary style="cursor: pointer;"><b>MuseReview</b><br><b>Frontend </b>– 나의 연주 습관과 화성학적 의도를 정밀 분석하여, 독학 중에도 레슨 경험을 제공하는 AI 음악 멘토링 플랫폼</summary>
@@ -159,7 +159,7 @@
 <br><br><br>
 
 <!-- Project 3: Cramit -->
-<img width="90%" alt="#1" src="https://github.com/user-attachments/assets/12a6a662-1717-491e-92d9-8b63169faa68" />
+<img width="90%" alt="Group 1739333813" src="https://github.com/user-attachments/assets/c2b7a257-3f79-4485-9048-0a85d3b93137" />
 <br><br>
 <details>
 <summary style="cursor: pointer;"><b>Cramit</b><br><b>Backend · Infra </b>– 나만의 스마트한 학습 어시스턴트</summary>
